@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+table{
+    /* border: 1px solid black; */
+    border: 3px solid black;
+    width: 100%;
+   border-collapse: collapse;
+}
+
+th,td{
+    /* border: 5px solid black; */
+    border: 2px solid black;
+    padding: 20px;
+    }
+
+    .subtotal{
+text-align: center;
+    }
+
+    .invoice-title{
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .invoice-number{
+        margin-left: 200px;
+    }
+    .invoice-number2{
+        margin-left: 160px;
+    }
+     .invoice-number3{
+        margin-left: 210px;
+    }
+    .invoice-number4{
+        margin-left: 190px;
+    }
+    .new-line{
+        margin-top: 0%;
+    }
+    .bottom1{
+        border-bottom: 0;
+    }
+    .bottom2{
+        /* border-top: 0; */
+        border-top:3px solid transparent;
+    }
